@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "AEE7024F-2416-4121-9F56-6B4798B810B2"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C0E51ED4-DDF0-4684-9B56-61FD651E4601"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x422;&#x41f;3/Pryamougol.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "PRYAMOUGOL :: PRYAMOUGOL(n)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C0E51ED4-DDF0-4684-9B56-61FD651E4601 - 5be05df856930b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PRYAMOUGOL::PRYAMOUGOL(int)"
+                  moduleName = "&#x422;&#x41f;3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mak/Desktop/%D0%A2%D0%9F3/%D0%A2%D0%9F3/Pryamougol.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "103">
+               </Location>
+               <Location
+                  uuid = "C0E51ED4-DDF0-4684-9B56-61FD651E4601 - 5be05df856930b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PRYAMOUGOL::PRYAMOUGOL(int)"
+                  moduleName = "&#x422;&#x41f;3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mak/Desktop/%D0%A2%D0%9F3/%D0%A2%D0%9F3/Pryamougol.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "117">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
