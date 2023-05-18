@@ -1,0 +1,58 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "572140bb38834e11ee9f92d86c0a3ab38320e646498b51a91e214819ca28b95c"
+    }
+  ],
+  "containerPath" : "/Users/mak/Документы/GitHub/TP_4/TP4/TP4.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx13.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/mak/Документы/Активные проекты/TP/ТП3/ТП3/TP4-cqgtxumekzmjypgeaqqlmprsugfz/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/mak/Документы/Активные проекты/TP/ТП3/ТП3/TP4-cqgtxumekzmjypgeaqqlmprsugfz/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/mak/Документы/Активные проекты/TP/ТП3/ТП3",
+      "indexDataStoreFolderPath" : "/Users/mak/Документы/Активные проекты/TP/ТП3/ТП3/TP4-cqgtxumekzmjypgeaqqlmprsugfz/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/mak/Документы/Активные проекты/TP/ТП3/ТП3/TP4-cqgtxumekzmjypgeaqqlmprsugfz/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/mak/Документы/Активные проекты/TP/ТП3/ТП3/TP4-cqgtxumekzmjypgeaqqlmprsugfz/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/mak/Документы/Активные проекты/TP/ТП3/ТП3/TP4-cqgtxumekzmjypgeaqqlmprsugfz/Build/Products",
+      "pchPath" : "/Users/mak/Документы/Активные проекты/TP/ТП3/ТП3/TP4-cqgtxumekzmjypgeaqqlmprsugfz/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

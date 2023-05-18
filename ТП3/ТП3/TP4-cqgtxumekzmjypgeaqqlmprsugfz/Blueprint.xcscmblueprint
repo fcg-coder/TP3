@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D2F5B059BEE908AD6BBC8455120DE3A0A110FC90",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D2F5B059BEE908AD6BBC8455120DE3A0A110FC90" : 0,
+    "C788B8CB430BA3A2F0F0234265CAF1F3D91B2D7C" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4D8CCC8B-4FF8-4D31-A0F3-8627BFE3FAD0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D2F5B059BEE908AD6BBC8455120DE3A0A110FC90" : "TP_4\/",
+    "C788B8CB430BA3A2F0F0234265CAF1F3D91B2D7C" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TP4",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TP4\/TP4.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/StanislavAgeychik\/lshfn.store.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C788B8CB430BA3A2F0F0234265CAF1F3D91B2D7C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/StanislavAgeychik\/TP_4.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D2F5B059BEE908AD6BBC8455120DE3A0A110FC90"
+    }
+  ]
+}

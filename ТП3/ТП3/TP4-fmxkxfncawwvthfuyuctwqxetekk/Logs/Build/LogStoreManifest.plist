@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>0F2BD868-5B96-4629-AFA8-0A16FB1CF9DE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0F2BD868-5B96-4629-AFA8-0A16FB1CF9DE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TP4 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TP4</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TP4</string>
+			<key>timeStartedRecording</key>
+			<real>706024277.40489399</real>
+			<key>timeStoppedRecording</key>
+			<real>706024278.91093397</real>
+			<key>title</key>
+			<string>Build TP4</string>
+			<key>uniqueIdentifier</key>
+			<string>0F2BD868-5B96-4629-AFA8-0A16FB1CF9DE</string>
+		</dict>
+		<key>10621445-EB5F-48E7-BB50-B09A4E5FD8FF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>10621445-EB5F-48E7-BB50-B09A4E5FD8FF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TP4 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TP4</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TP4</string>
+			<key>timeStartedRecording</key>
+			<real>706024190.20726001</real>
+			<key>timeStoppedRecording</key>
+			<real>706024191.89777505</real>
+			<key>title</key>
+			<string>Build TP4</string>
+			<key>uniqueIdentifier</key>
+			<string>10621445-EB5F-48E7-BB50-B09A4E5FD8FF</string>
+		</dict>
+		<key>4C4E8BF7-37EF-4902-8F0F-9CADF9E84FD1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4C4E8BF7-37EF-4902-8F0F-9CADF9E84FD1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TP4 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TP4</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TP4</string>
+			<key>timeStartedRecording</key>
+			<real>706024268.09936702</real>
+			<key>timeStoppedRecording</key>
+			<real>706024269.52891004</real>
+			<key>title</key>
+			<string>Build TP4</string>
+			<key>uniqueIdentifier</key>
+			<string>4C4E8BF7-37EF-4902-8F0F-9CADF9E84FD1</string>
+		</dict>
+		<key>6C3AB8CD-D90D-44E3-AECF-499CF4D1FF82</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6C3AB8CD-D90D-44E3-AECF-499CF4D1FF82.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TP4 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TP4</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TP4</string>
+			<key>timeStartedRecording</key>
+			<real>706024181.65998197</real>
+			<key>timeStoppedRecording</key>
+			<real>706024182.98499894</real>
+			<key>title</key>
+			<string>Build TP4</string>
+			<key>uniqueIdentifier</key>
+			<string>6C3AB8CD-D90D-44E3-AECF-499CF4D1FF82</string>
+		</dict>
+		<key>705C6C52-7BD4-4FD5-8092-9B17BEE0ED09</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>705C6C52-7BD4-4FD5-8092-9B17BEE0ED09.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TP4 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TP4</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TP4</string>
+			<key>timeStartedRecording</key>
+			<real>706024326.54146397</real>
+			<key>timeStoppedRecording</key>
+			<real>706024328.00944901</real>
+			<key>title</key>
+			<string>Build TP4</string>
+			<key>uniqueIdentifier</key>
+			<string>705C6C52-7BD4-4FD5-8092-9B17BEE0ED09</string>
+		</dict>
+		<key>A760DD0F-905D-43B7-AC78-F4E92F1E7E59</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A760DD0F-905D-43B7-AC78-F4E92F1E7E59.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TP4 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TP4</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TP4</string>
+			<key>timeStartedRecording</key>
+			<real>706024219.68842995</real>
+			<key>timeStoppedRecording</key>
+			<real>706024221.05617297</real>
+			<key>title</key>
+			<string>Build TP4</string>
+			<key>uniqueIdentifier</key>
+			<string>A760DD0F-905D-43B7-AC78-F4E92F1E7E59</string>
+		</dict>
+		<key>AA44AF96-D871-42B1-BF37-776EBE720360</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AA44AF96-D871-42B1-BF37-776EBE720360.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TP4 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TP4</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TP4</string>
+			<key>timeStartedRecording</key>
+			<real>706024290.54838204</real>
+			<key>timeStoppedRecording</key>
+			<real>706024292.06220603</real>
+			<key>title</key>
+			<string>Build TP4</string>
+			<key>uniqueIdentifier</key>
+			<string>AA44AF96-D871-42B1-BF37-776EBE720360</string>
+		</dict>
+		<key>B5CACAFA-7381-4D6C-BC64-3C0EF20E0374</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B5CACAFA-7381-4D6C-BC64-3C0EF20E0374.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TP4 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TP4</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TP4</string>
+			<key>timeStartedRecording</key>
+			<real>706024197.24492705</real>
+			<key>timeStoppedRecording</key>
+			<real>706024198.80471599</real>
+			<key>title</key>
+			<string>Build TP4</string>
+			<key>uniqueIdentifier</key>
+			<string>B5CACAFA-7381-4D6C-BC64-3C0EF20E0374</string>
+		</dict>
+		<key>F84A136F-0B5F-4316-BA8E-0A20D3AB9C9B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F84A136F-0B5F-4316-BA8E-0A20D3AB9C9B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TP4 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TP4</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TP4</string>
+			<key>timeStartedRecording</key>
+			<real>706024168.48442495</real>
+			<key>timeStoppedRecording</key>
+			<real>706024170.20679998</real>
+			<key>title</key>
+			<string>Build TP4</string>
+			<key>uniqueIdentifier</key>
+			<string>F84A136F-0B5F-4316-BA8E-0A20D3AB9C9B</string>
+		</dict>
+		<key>FAECAF98-75A4-4946-ABA3-BC48728533B5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FAECAF98-75A4-4946-ABA3-BC48728533B5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TP4 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TP4</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TP4</string>
+			<key>timeStartedRecording</key>
+			<real>706024284.24172604</real>
+			<key>timeStoppedRecording</key>
+			<real>706024285.76459897</real>
+			<key>title</key>
+			<string>Build TP4</string>
+			<key>uniqueIdentifier</key>
+			<string>FAECAF98-75A4-4946-ABA3-BC48728533B5</string>
+		</dict>
+		<key>FCF5E444-E231-4470-9124-6A21C553F066</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FCF5E444-E231-4470-9124-6A21C553F066.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TP4 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TP4</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TP4</string>
+			<key>timeStartedRecording</key>
+			<real>706024252.919433</real>
+			<key>timeStoppedRecording</key>
+			<real>706024254.26026702</real>
+			<key>title</key>
+			<string>Build TP4</string>
+			<key>uniqueIdentifier</key>
+			<string>FCF5E444-E231-4470-9124-6A21C553F066</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
