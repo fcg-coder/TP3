@@ -28,33 +28,42 @@ int main(int argc, const char * argv[]) {
         string nameOfIzdat1;
         int countStr1;
         string anotation1;
+//
+//                cout << str1;
+//                cin >>  name1;
+//                cin >> year1;
+//                cin >> nameOfIzdat1;
+//                cin >> countStr1;
+//                cin >> anotation1;
+//                journal J(name1, year1, nameOfIzdat1, countStr1, anotation1);
+//                J.print();
+//
+//                cout << str1;
+//                cin >>  name1;
+//                cin >> year1;
+//                cin >> nameOfIzdat1;
+//                cin >> countStr1;
+//                cin >> anotation1;
+//                ucheb U(name1, year1, nameOfIzdat1, countStr1, anotation1);
+//                U.print();
+//
+//                cout << str1;
+//                cin >>  name1;
+//                cin >> year1;
+//                cin >> nameOfIzdat1;
+//                cin >> countStr1;
+//                cin >> anotation1;
+//                book B(name1, year1, nameOfIzdat1, countStr1, anotation1);
+//                B.print();
 
-                cout << str1;
-                cin >>  name1;
-                cin >> year1;
-                cin >> nameOfIzdat1;
-                cin >> countStr1;
-                cin >> anotation1;
-                journal J(name1, year1, nameOfIzdat1, countStr1, anotation1);
-                J.print();
 
-                cout << str1;
-                cin >>  name1;
-                cin >> year1;
-                cin >> nameOfIzdat1;
-                cin >> countStr1;
-                cin >> anotation1;
-                ucheb U(name1, year1, nameOfIzdat1, countStr1, anotation1);
-                U.print();
+                journal JR;
+                JR.print();
 
-                cout << str1;
-                cin >>  name1;
-                cin >> year1;
-                cin >> nameOfIzdat1;
-                cin >> countStr1;
-                cin >> anotation1;
-                book B(name1, year1, nameOfIzdat1, countStr1, anotation1);
-                B.print();
+                ucheb UR;
+                UR.print();
 
+                book BR;
+                BR.print();
 
 }

@@ -23,6 +23,7 @@ class ucheb: public AbstracktCLASS{
 public:
     //Конструкторы
     ucheb(string N, int Y, string NI, int C, string A);
+    ucheb();
     void print() override; //Площадь
     
 //    string name;

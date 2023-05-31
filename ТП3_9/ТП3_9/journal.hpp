@@ -23,6 +23,7 @@ class journal: public AbstracktCLASS{
 public:
     //Конструкторы
     journal(string N, int Y, string NI, int C, string A);
+    journal();
     void print() override; //Площадь
     
 //    string name;

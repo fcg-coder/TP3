@@ -23,6 +23,7 @@ class book: public AbstracktCLASS{
 public:
     //Конструкторы
     book(string N, int Y, string NI, int C, string A);
+    book();
     void print() override; //Площадь
     
 //    string name;
